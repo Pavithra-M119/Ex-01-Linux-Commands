@@ -22,6 +22,8 @@ All basic and advanced tasks can be done by executing commands. The commands are
 The ls command is used to display a list of content of a directory.
 
  Syntax: ls
+![image](https://github.com/DrMalathiSaravanan/Ex-01-Linux-Commands/assets/119229774/de5af182-0b1b-42d2-b62e-c69f10d39626)
+
 
 
 ### 2)	pwd Command
@@ -29,6 +31,7 @@ The ls command is used to display a list of content of a directory.
 The pwd command is used to display the location of the current working directory.
 
 Syntax: pwd
+![image](https://github.com/DrMalathiSaravanan/Ex-01-Linux-Commands/assets/119229774/97ec57b5-abaf-4bf3-af99-942adcabce68)
 
  
 ### 3)	mkdir Command
@@ -36,6 +39,7 @@ Syntax: pwd
 The mkdir command is used to create a new directory under any directory.
 
 Syntax: mkdir <directory name>
+![image](https://github.com/DrMalathiSaravanan/Ex-01-Linux-Commands/assets/119229774/8485a6c4-28ac-4e3e-ae35-402c421f41f7)
 
 
 ### 4)	rmdir Command
@@ -50,6 +54,7 @@ Syntax: rmdir <directory name>
 The cd command is used to change the current directory.
 
 Syntax: cd <directory name>
+![image](https://github.com/DrMalathiSaravanan/Ex-01-Linux-Commands/assets/119229774/9cb8d210-ef8b-4b04-9257-3c1c8507a19e)
 
 
 ### 6)	cat Command
@@ -57,6 +62,7 @@ Syntax: cd <directory name>
 The cat command is a multi-purpose utility in the Linux system. It can be used to create a file, display content of the file, copy the content of one file to another file, and more.
 
 Syntax: cat [OPTION]... [FILE]..
+![image](https://github.com/DrMalathiSaravanan/Ex-01-Linux-Commands/assets/119229774/ff1a8406-54bf-46fc-b189-302fb96e2709)
 
  
 ### 7)	cp Command
@@ -64,6 +70,7 @@ Syntax: cat [OPTION]... [FILE]..
 The cp command is used to copy a file or directory.
 
 Syntax: cp <existing file name> <new file name>
+![image](https://github.com/DrMalathiSaravanan/Ex-01-Linux-Commands/assets/119229774/86e7316b-308c-4c5e-a9bc-6c5f7e5f1fdd)
 
 
 
@@ -72,6 +79,7 @@ Syntax: cp <existing file name> <new file name>
 The gedit is a general-purpose text editor. It can be used to create and edit all kinds of text files.
 
 Syntax: gedit file_name
+![image](https://github.com/DrMalathiSaravanan/Ex-01-Linux-Commands/assets/119229774/a5595b3b-36aa-4799-a4e3-55dd322a74bf)
 
 
 ### 9)	su Command
@@ -79,6 +87,7 @@ Syntax: gedit file_name
 The su command provides administrative access to another user. In other words, it allows access of the Linux shell to another user.
 
 Syntax: su <user name>
+![image](https://github.com/DrMalathiSaravanan/Ex-01-Linux-Commands/assets/119229774/79a641f8-16d2-4e60-acf7-b6ea050c6ec6)
 
 
 ### 10)	mv Command
@@ -93,6 +102,7 @@ Syntax: mv <file name> <directory path>
 The rename command is used to rename files. It is useful for renaming a large group of files.
 
 Syntax: rename 's/old-name/new-name/' files
+![image](https://github.com/DrMalathiSaravanan/Ex-01-Linux-Commands/assets/119229774/4ebe65a7-b38d-41d1-8dc0-468dde04be24)
 
 
 ### 12)	head Command
@@ -100,6 +110,7 @@ Syntax: rename 's/old-name/new-name/' files
 The head command is used to display the content of a file. It displays the first 10 lines of a file.
 
 Syntax: head <file name>
+![image](https://github.com/DrMalathiSaravanan/Ex-01-Linux-Commands/assets/119229774/ef8c1662-5c9e-41cb-8eca-0916a9839271)
 
 
 ### 13)	tail Command
@@ -107,6 +118,7 @@ Syntax: head <file name>
 The tail command is similar to the head command. The difference between both commands is that it displays the last ten lines of the file content. It is useful for reading the error message.
 
 Syntax: tail <file name>
+![image](https://github.com/DrMalathiSaravanan/Ex-01-Linux-Commands/assets/119229774/e9180c16-3f7b-4d9c-9e3d-d85192b2a1b8)
 
  
 ### 14)	id Command
@@ -114,6 +126,7 @@ Syntax: tail <file name>
 The id command is used to display the user ID (UID) and group ID (GID).
 
 Syntax: id
+![image](https://github.com/DrMalathiSaravanan/Ex-01-Linux-Commands/assets/119229774/746b6c55-db86-4f60-a4c0-7a0da819da2a)
 
 
 ### 15)	grep Command
@@ -121,6 +134,7 @@ Syntax: id
 The grep is the most powerful and used filter in a Linux system. The 'grep' stands for "global regular expression print." It is useful for searching the content from a file. Generally, it is used with the pipe.
 
 Syntax: command | grep <search word>
+![image](https://github.com/DrMalathiSaravanan/Ex-01-Linux-Commands/assets/119229774/a72c28e3-0d1f-4b22-9299-41d1461b8734)
 
 
 ### 16)	tr Command
@@ -215,6 +229,7 @@ Syntax: mail -s "Subject" <recipient address>
 The df command is used to display the disk space used in the file system. It displays the output as in the number of used blocks, available blocks, and the mounted directory.
 
 Syntax: df
+![Uploading image.png…]()
 
 ### 30)	find Command
 
